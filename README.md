@@ -5,3 +5,5 @@ The summary research report includes the following sections:
 - Part 3: Compare and evaluate Zero Trust model with traditional models; given the effect, the limitations of Zero Trust
 - Part 4: Conclusion, the future of Zero Trust 
 - Part 5: References
+
+[ELT2028_3-Nhóm 5-CyberTeam.pdf](https://github.com/Thanh-Van-2001/Zero-Trust-Architecture/files/7874105/ELT2028_3-Nhom.5-CyberTeam.pdf)

@@ -6,3 +6,7 @@ The summary research report includes the following sections:
 - Part 4: Conclusion, the future of Zero Trust 
 - Part 5: References
 
+# Our team
+* Thanh V. Nguyen [Contact: https://github.com/Thanh-Van-2001
+* Tuyen M. Vu
+* Dinh T. Huyen

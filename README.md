@@ -17,3 +17,26 @@ The summary research report includes the following sections:
 * Thanh V. Nguyen 
 * Tuyen M. Vu
 * Dinh T. Huyen
+
+# References
+Books:
+Zero Trust Security: An Enterprise Guide. Jason Garbis, Jerry W. Chapman
+Zero Trust security - An enterprise guide.pdf
+Zero trust networks : building secure systems in untrusted networks. Barth, Doug, Gilman, Evan
+
+Journal Articles: 
+A zero trust hybrid security and safety risk Analysis Method. Nikolaos Papakonstantinou, Douglas L. Van Bossuyt, Joonas Linnosmaa, Britta Hale, Bryan O’Halloran, May 13, 2021.
+A zero trust hybrid security and safety risk Analysis Method..pdf
+The zero trust supply chain: Managing supply chain risk in the absence of trust. Zachary A. Collier & Joseph Sarkis, pp 3430 - 3445, 17 Feb 2021
+
+
+Conference Papers: 
+The state of zero trust in the age of fluid working. Olie Sheridan, 23 Feb 2021
+The Emergence of Post Covid-19 Zero Trust Security Architectures. David Haddon, Philip Bennett. 30 July 2021
+
+Technical Reports:
+Beyond Zero Trust: Trust Is a Vulnerability. M Campell. October 2020 
+Beyond_Zero_Trust_Trust_Is_a_Vulnerability.pdf
+Survivable zero trust for cloud computing environments. Luca Ferretti. November 2020
+
+Internet Sources: ASME Digital Collection, Taylor & Francis Online, NIST, Springer Link

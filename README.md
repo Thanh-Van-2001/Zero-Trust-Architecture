@@ -3,7 +3,7 @@
 
 
 # Introduction
-Research on the Zero Trust security model is a project of Cyber Team - a group of students from a university of technology. We are inspired by the issue of security in the context of the Covid - 19 epidemic, when companies and organizations have to work remotely.
+Research on the Zero Trust security model is a project of Cyber Team - a group of students from a university of engineer and technology (UET - VNU). We are inspired by the issue of security in the context of the Covid - 19 epidemic, when companies and organizations have to work remotely.
 
 # Abstract
 The summary research report includes the following sections: 
